@@ -1,9 +1,0 @@
-diff a/TestFIle.txt b/TestFIle.txt	(rejected hunks)
-@@ -1,2 +0,6 @@
-- Test2
- -Test1
-++<<<<<<< HEAD
-++Test2
-++=======
-++Test1
-++>>>>>>> parent of 6c8830b... TestBranchCommit3
