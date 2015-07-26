@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test2
-=======
-Test1
->>>>>>> parent of 6c8830b... TestBranchCommit3
-=======
-Test2
->>>>>>> ebcb7bc9330f62b173d461528f392e4f980ca425
